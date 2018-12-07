@@ -1,12 +1,12 @@
 {
   "tests": [
  {
-      "name": "Soil - Available Boron",
+      "name": "Blood Sugar",
       "subtype": "cuvette",
       "uuid": "299ec001-f6ea-45ed-9db2-596d5e5d5f25",
       "brand": "FFEM",
       "calibrate": true,
-      "ranges": "0,0.25,0.5,1,1.5,2",
+      "ranges": "0,100,400",
       "monthsValid": 12,
       "hasImage": true,
       "instructions": [
@@ -15,8 +15,8 @@
         {
           "id": 1,
           "name": "Available Boron",
-          "unit": "mg/l",
-          "timeDelay": 600
+          "unit": "mg/dl",
+          "timeDelay": 30
         }
       ]
     },
