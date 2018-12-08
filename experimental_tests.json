@@ -131,6 +131,43 @@
       ]
     },
     {
+      "name": "Blood Sugar",
+      "type": "water",
+      "subtype": "cuvette",
+      "uuid": "{
+      "name": "Organophosphate",
+      "type": "water",
+      "subtype": "cuvette",
+      "uuid": "e3cc318d-c50a-4581-8d20-50a1b5c1c85c",
+      "image": "ffem",
+      "imageScale": "centerCrop",
+      "calibrate": true,
+      "ranges": "0,1,2,3,4,5",
+      "monthsValid": 6,
+      "results": [
+        {
+          "id": 1,
+          "name": "Organophosphate",
+          "unit": "mg/l",
+          "timeDelay": 30
+        }
+      ]
+    },",
+      "image": "ffem",
+      "imageScale": "centerCrop",
+      "calibrate": true,
+      "ranges": "100,200,300,600",
+      "monthsValid": 6,
+      "results": [
+        {
+          "id": 1,
+          "name": "Blood Sugar",
+          "unit": "mg/l",
+          "timeDelay": 30
+        }
+      ]
+    },
+    {
       "name": "Available Nitrogen",
       "type": "soil",
       "subtype": "cuvette",
