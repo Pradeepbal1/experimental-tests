@@ -130,6 +130,44 @@
         }
       ]
     },
+      {
+      "name": "Chlorophyll A",
+      "type": "water",
+      "subtype": "cuvette",
+      "uuid": "44b731e4-ad77-4ed7-b927-e17fe3846c64",
+      "image": "ffem",
+      "imageScale": "centerCrop",
+      "calibrate": true,
+      "ranges": "0,0.20,0.50,1,5,10,25",
+      "monthsValid": 6,
+      "results": [
+        {
+          "id": 1,
+          "name": "Chlorophyll A",
+          "unit": "mg/l",
+          "timeDelay": 30
+        }
+      ]
+    }, 
+    {
+      "name": "Blood Sugar",
+      "type": "water",
+      "subtype": "cuvette",
+      "uuid": "8a2cbf4a-5662-4a2e-b401-62680e4634e8",
+      "image": "ffem",
+      "imageScale": "centerCrop",
+      "calibrate": true,
+      "ranges": "100, 200, 300, 600",
+      "monthsValid": 6,
+      "results": [
+        {
+          "id": 1,
+          "name": "Blood Sugar",
+          "unit": "mg/dl",
+          "timeDelay": 30
+        }
+      ]
+    },
     {
       "name": "Available Nitrogen",
       "type": "soil",
