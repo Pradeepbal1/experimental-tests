@@ -93,20 +93,20 @@
       ]
     },
     {
-      "name": "Chlorophyll A",
+      "name": "Blood Sugar",
       "type": "water",
       "subtype": "cuvette",
       "uuid": "44b731e4-ad77-4ed7-b927-e17fe3846c64",
       "image": "ffem",
       "imageScale": "centerCrop",
       "calibrate": true,
-      "ranges": "0,0.20,0.50,1,5,10,25",
+      "ranges": "100,400",
       "monthsValid": 6,
       "results": [
         {
           "id": 1,
-          "name": "Chlorophyll A",
-          "unit": "mg/l",
+          "name": "Blood Sugar",
+          "unit": "mg/dl",
           "timeDelay": 30
         }
       ]
