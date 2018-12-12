@@ -21,12 +21,12 @@
       ]
     },
     {
-      "name": "Soil - Available Iron",
+      "name": "Saponin",
       "subtype": "cuvette",
       "uuid": "08c774fe-ca2a-4dba-b039-a9a7eb17a8e2",
       "brand": "FFEM",
       "calibrate": true,
-      "ranges": "0,0.5,1,1.5,2,2.5,3",
+      "ranges": "0,0.01,0.02,0.03,0.04,0.05",
       "monthsValid": 12,
       "hasImage": true,
       "instructions": [
@@ -34,9 +34,9 @@
       "results": [
         {
           "id": 1,
-          "name": "Available Iron",
-          "unit": "mg/l",
-          "timeDelay": 180
+          "name": "Saponin",
+          "unit": "%",
+          "timeDelay": 15
         }
       ]
     },
